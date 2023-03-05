@@ -8,3 +8,13 @@ C:\Users\Miranor\source\repos\KeywordDensity\KeywordDensity\obj\Debug\KeywordDen
 C:\Users\Miranor\source\repos\KeywordDensity\KeywordDensity\obj\Debug\KeywordDensity.csproj.CoreCompileInputs.cache
 C:\Users\Miranor\source\repos\KeywordDensity\KeywordDensity\obj\Debug\KeywordDensity.exe
 C:\Users\Miranor\source\repos\KeywordDensity\KeywordDensity\obj\Debug\KeywordDensity.pdb
+C:\Users\Miranor\source\repos\Keyword-Density\KeywordDensity\bin\Debug\KeywordDensity.exe.config
+C:\Users\Miranor\source\repos\Keyword-Density\KeywordDensity\bin\Debug\KeywordDensity.exe
+C:\Users\Miranor\source\repos\Keyword-Density\KeywordDensity\bin\Debug\KeywordDensity.pdb
+C:\Users\Miranor\source\repos\Keyword-Density\KeywordDensity\obj\Debug\KeywordDensity.csproj.AssemblyReference.cache
+C:\Users\Miranor\source\repos\Keyword-Density\KeywordDensity\obj\Debug\KeywordDensity.Form1.resources
+C:\Users\Miranor\source\repos\Keyword-Density\KeywordDensity\obj\Debug\KeywordDensity.Properties.Resources.resources
+C:\Users\Miranor\source\repos\Keyword-Density\KeywordDensity\obj\Debug\KeywordDensity.csproj.GenerateResource.cache
+C:\Users\Miranor\source\repos\Keyword-Density\KeywordDensity\obj\Debug\KeywordDensity.csproj.CoreCompileInputs.cache
+C:\Users\Miranor\source\repos\Keyword-Density\KeywordDensity\obj\Debug\KeywordDensity.exe
+C:\Users\Miranor\source\repos\Keyword-Density\KeywordDensity\obj\Debug\KeywordDensity.pdb
